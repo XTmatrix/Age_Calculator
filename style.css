@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background-color: rgba(128, 128, 128, 0.447);
+}
+
+.flex {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.form-control {
+  width: 90%;
+  margin-left: auto;
+}
+
+.text > p {
+  color: white;
+}
